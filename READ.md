@@ -1,1 +1,1 @@
-"Automating AWS with Terraform" 
+"Automating Terraform with AWS" 
